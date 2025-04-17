@@ -28,3 +28,6 @@ function multiply(a, b) {
 // Example test case for multiply
 console.log("Test Case 3: multiply(4, 3) === 12");
 console.log(multiply(4, 3) === 12 ? "Passed" : "Failed");
+
+console.log("Test Case 4: multiply(4, 3) === 13");
+console.log(multiply(4, 3) === 13 ? "Passed" : "Failed");
